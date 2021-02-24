@@ -1,4 +1,4 @@
 # Site-Covid
-Site que mostra os dados da covid em feira de santana 
+Site que mostra os dados da covid em Feira de Santana
 
 
